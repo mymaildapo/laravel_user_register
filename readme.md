@@ -9,12 +9,12 @@
 
 ## How to Run
 
-#import lsappnew.sql located in root folder to postgress database.
-or
-# using tools like pgadmin4 create a new postgres database
-# create .env in the root folder (check and use .env.example)
-# npm install
-# composer install
+import lsappnew.sql located in root folder to postgress database.<br />
+or<br />
+ using tools like pgadmin4 create a new postgres database<br />
+create .env in the root folder (check and use .env.example)<br />
+npm install<br />
+composer install<br />
 ## link the image folder
 php artisan storage:link
 
