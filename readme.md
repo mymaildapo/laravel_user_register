@@ -15,10 +15,12 @@ using tools like pgadmin4 create a new postgres database
 create .env in the root folder (check and use .env.example)
 npm install
 composer install
-link the image folder
+## link the image folder
 php artisan storage:link
-send data to the database, run command
+
+## send data to the database, run command
 php artisan migrate
 php artisan db:seed
+
 php artisan serve
 go to http://127.0.0.1:8000
