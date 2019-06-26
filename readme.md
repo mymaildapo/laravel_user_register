@@ -19,9 +19,8 @@ or
 php artisan storage:link
 
 ## send data to the database, run command
-
-# php artisan migrate
-# php artisan db:seed
+php artisan migrate
+php artisan db:seed
 
 ## php artisan serve
 go to http://127.0.0.1:8000
