@@ -19,6 +19,7 @@ or
 php artisan storage:link
 
 ## send data to the database, run command
+
 # php artisan migrate
 # php artisan db:seed
 
